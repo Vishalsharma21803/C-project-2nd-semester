@@ -77,7 +77,7 @@ int main()
     {
         printf("\n1. Account Status\n");
         printf("2. Account Opening\n");
-        printf("3. Change Password\n");Z
+        printf("3. Change Password\n");
         printf("4. Payee Management\n");
         printf("5. View Statement\n");
         printf("6. Exit\n");
